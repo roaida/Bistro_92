@@ -1,6 +1,8 @@
 # Bistro_92
 Menu-Based Food Ordering System using Arduino
+
 Simulation Drive_Link:https://drive.google.com/file/d/1thehSNac30nnVtCKd0aIbP8aAud-VeDd/view?usp=sharing
+
 1.Project Overview:
 This project is a simple food ordering system controlled via pushbuttons and displayed on a 16x2 LCD screen.  
 Users can:
